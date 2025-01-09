@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+export IMG_NAME="bobbychenos"
+export RELEASE="bullseye"
+export DEPLOY_COMPRESSION="none"
+export LOCALE_DEFAULT="en_US.UTF-8"
+export TARGET_HOSTNAME="bobbychenos.local"
+export KEYBOARD_KEYMAP="us"
+export KEYBOARD_LAYOUT="English (US)"
+export TIMEZONE_DEFAULT="America/Los Angeles"
+export FIRST_USER_NAME="bobbychen"
+export FIRST_USER_PASS="password"
+export WPA_COUNTRY="US"
+export ENABLE_SSH=1
+export PUBKEY_ONLY_SSH=0
+export DISABLE_FIRST_BOOT_USER_RENAME=1
